@@ -15,7 +15,7 @@
 	<description>Different code examples for Java</description>
 
 	<modules>
-		<module>Tests</module>
+		<module>Multithreading</module>
 		<module>Exceptions</module>
 	</modules>
 
