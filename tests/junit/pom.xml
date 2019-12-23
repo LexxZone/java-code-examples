@@ -4,14 +4,14 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>ru.stateofmind</groupId>
-		<artifactId>multithreading</artifactId>
+		<artifactId>tests</artifactId>
 		<version>1.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<artifactId>completable-futures</artifactId>
+	<artifactId>junit</artifactId>
 	<version>1.0</version>
-	<name>Multithreading: completableFuture</name>
-	<description>Examples of completableFuture</description>
+	<name>Tests: junit</name>
+	<description>Examples of JUnit tests</description>
 
 
 </project>

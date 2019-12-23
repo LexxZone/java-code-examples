@@ -9,7 +9,7 @@ import java.util.concurrent.Executors;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-class LetsDoRunAsyncAndSupplyAsyncTests {
+class ParametrizedTestsExample {
     private ExecutorService executorService = Executors.newFixedThreadPool(2);
 
     /**
