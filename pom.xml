@@ -17,6 +17,7 @@
 	<modules>
 		<module>multithreading</module>
 		<module>exceptions</module>
+		<module>springboot</module>
 		<module>tests</module>
 	</modules>
 
